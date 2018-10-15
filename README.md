@@ -1,8 +1,10 @@
-Html Hello World Demo
-=====================
+Html JQuery Form to JSON Demo
+=============================
+
+Turn form data to JSON.
 
 ```
 open index.html
 ```
 
-You will see `Hello, World!` on page.
+![demo](./images/demo.jpg)
